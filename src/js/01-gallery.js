@@ -1,4 +1,4 @@
-// Add imports above this line
 import { galleryItems } from './gallery-items';
-console.log(' HEllo');
-console.log(galleryItems);
+import SimpleLightbox from "simplelightbox";
+
+console.log(SimpleLightbox);
